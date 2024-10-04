@@ -1,4 +1,4 @@
-StoreKey,Country,State,Square Meters,Open Date
+store_key,country,state,square_meters,open_date
 1,australia,australian capital territory,595.0,2008-01-01
 2,australia,northern territory,665.0,2008-01-12
 3,australia,south australia,2000.0,2012-01-07
