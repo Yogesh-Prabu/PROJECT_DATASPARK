@@ -65,3 +65,4 @@ store_key,country,state,square_meters,open_date
 64,united states,washington dc,1330.0,2010-01-01
 65,united states,west virginia,1785.0,2012-01-01
 66,united states,wyoming,840.0,2014-01-01
+0,online,online,,2010-01-01
