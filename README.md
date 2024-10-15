@@ -99,14 +99,11 @@ PROJECT - DATA_SPARK
 ## 📑 Conclusion
 The **DataSpark** project shows how data analytics can significantly enhance business decisions in the global electronics retail industry. Through efficient data cleaning, insightful analysis, and compelling visualizations, this project provides actionable strategies for business growth and operational efficiency.
 
-## 📄 License
-This project is licensed under the **MIT License**. Please refer to the `LICENSE` file for more information.
-
 ## 🤝 Acknowledgments
 Special thanks to **Guvi** for providing the platform to learn and implement data analytics skills through this project.
 
 ## 📬 Contact
 For any questions or further information, feel free to reach out:  
-**Yogesh R.** – [[GitHub Profile](https://github.com/Yogesh-Prabu)](#)
+**Yogesh R.** – [[GitHub Profile](https://github.com/Yogesh-Prabu)]
 
 
