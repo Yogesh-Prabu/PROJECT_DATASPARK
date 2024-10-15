@@ -32,7 +32,7 @@
 │   └── Power BI dashboards for visualization
 │
 ├── global_electronics.sql
-└── README.md
+└── README.md```
 
 #💾 Datasets Used
 *Customers*: Contains customer details like name, age, gender, and state.
