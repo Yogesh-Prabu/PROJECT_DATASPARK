@@ -34,18 +34,20 @@
 ├── global_electronics.sql
 └── README.md
 
-💾 Datasets Used
-Customers: Contains customer details like name, age, gender, and state.
-Products: Contains product data such as categories and brands.
-Sales: Includes order details, quantities, and revenue generated.
-Stores: Store information, including location and size.
-Exchange Rates: Historical exchange rate data for currency conversion.
-🔧 Tools and Technologies
+#💾 Datasets Used
+*Customers*: Contains customer details like name, age, gender, and state.
+*Products*: Contains product data such as categories and brands.
+*Sales*: Includes order details, quantities, and revenue generated.
+*Stores*: Store information, including location and size.
+*Exchange Rates*: Historical exchange rate data for currency conversion.
+
+#🔧 Tools and Technologies
 Python: Data cleaning and preprocessing.
 SQL (MySQL): Database management and querying.
 Power BI: Building visual dashboards for reporting.
 Jupyter Notebook: Documenting and analyzing data.
-🛠️ Process Overview
+
+#🛠️ Process Overview
 Data Cleaning and Preprocessing
 Converted 'Open Date' to the datetime format.
 Used median imputation to handle missing values and outliers.
